@@ -1,37 +1,43 @@
 # 🌐 Portafolio Web - Jamir Ascencio
 
-Bienvenido a mi portafolio online. Aquí presento algunos de los proyectos que he desarrollado durante mi formación como estudiante de **Computación e Informática** en Cibertec, enfocados en el desarrollo de software, aplicaciones web y soluciones interactivas.
+¡Bienvenido a mi portafolio de desarrollo!  
+Soy estudiante de **Computación e Informática en Cibertec**, apasionado por el desarrollo de software y aplicaciones web modernas. Este portafolio presenta algunos de los proyectos en los que he trabajado.
 
 ---
 
-## 🧁 Proyecto Destacado: Pastelería Web React
+## 🧁 Pastelería Web React
 
-### Descripción
-Aplicación web desarrollada con **React** para una pastelería. El sitio permite mostrar un catálogo de productos, gestionar un carrito de compras y visualizar un resumen de pedido. Incluye secciones informativas como “Contáctanos”, “Eventos” y “Trabaja con nosotros”.
+**Descripción:**  
+Aplicación web SPA desarrollada con React para una pastelería. Muestra un catálogo de productos, permite agregar al carrito y navegar entre diferentes secciones como eventos, contacto y bolsa de trabajo.
 
-### Tecnologías utilizadas
+**Tecnologías utilizadas:**
 - React 18
 - React Router DOM
 - Vite
-- JSX
-- CSS modular
+- JSX + CSS modular
+- Estructura por componentes
 
 ---
 
-## 🚀 Objetivo del Portafolio
+## 📚 Sistema de Gestión de Biblioteca
 
-Este portafolio tiene como propósito presentar de forma clara y visual mis capacidades como desarrollador, destacando el uso de tecnologías modernas, buenas prácticas y enfoque en experiencia de usuario.
+**Descripción:**  
+Sistema completo de gestión bibliotecaria desarrollado con Spring Boot. Administra libros, préstamos, stock, editoriales y genera reportes. Utiliza arquitectura MVC con controladores REST y entidades JPA.
 
-Estoy en constante aprendizaje y evolución, por lo que este sitio se actualizará con nuevos proyectos próximamente.
+**Tecnologías utilizadas:**
+- Java con Spring Boot
+- Spring MVC / REST Controllers
+- JPA (Hibernate)
+- Base de datos relacional (MySQL o H2)
+- Posible frontend con Thymeleaf o JSP
 
 ---
 
 ## 📫 Contacto
 
-Puedes encontrarme en:
-- 📧 jamir.ascencio@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/jamirascencio)
-- 🐱 [GitHub](https://github.com/jamirascencio)
+📧 jamir.ascencio@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jamirascencio)  
+🐱 [GitHub](https://github.com/jamirascencio)
 
 ---
 
