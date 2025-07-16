@@ -33,6 +33,28 @@ Sistema completo de gestión bibliotecaria desarrollado con Spring Boot. Adminis
 
 ---
 
+## 🍽️ Restaurante Acurio’s – Carta Virtual con JSP y MySQL
+
+**Descripción:**  
+Sitio web dinámico desarrollado con **JSP, Servlets y MySQL**, orientado a la gestión de un restaurante. Los usuarios pueden visualizar el menú, acceder al carrito de pedidos, y realizar reservas. Además, se gestiona el acceso por roles: cliente, administrador y empleado.
+
+El diseño está personalizado con Bootstrap y muestra platos típicos peruanos como ceviche, lomo saltado, ají de gallina, entre otros.
+
+**Tecnologías utilizadas:**
+- Java (JSP + Servlets)
+- HTML, CSS, Bootstrap
+- MySQL
+- JDBC (para conexión a base de datos)
+
+**Módulos principales:**
+- Gestión de usuarios con roles (`cliente`, `administrador`, `empleado`)
+- Catálogo de platos con imágenes y descripciones
+- Carrito de compras
+- Sistema de reservas con cantidad de personas y fecha
+- Paneles separados por tipo de usuario
+
+---
+
 ## 📫 Contacto
 
 📧 jamir.ascencio@email.com  
