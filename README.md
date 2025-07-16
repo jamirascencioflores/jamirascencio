@@ -28,8 +28,8 @@ Sistema completo de gestión bibliotecaria desarrollado con Spring Boot. Adminis
 - Java con Spring Boot
 - Spring MVC / REST Controllers
 - JPA (Hibernate)
-- Base de datos relacional (MySQL o H2)
-- Posible frontend con Thymeleaf o JSP
+- Base de datos relacional (MySQL)
+- Posible frontend con Thymeleaf
 
 ---
 
